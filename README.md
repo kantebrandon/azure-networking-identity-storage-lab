@@ -179,8 +179,6 @@ Uploaded file
 Mohamed_Kante_CR.pdf
 ```
 
----
-
 ## Screenshots
 
 ### Resource Group
@@ -224,7 +222,6 @@ Mohamed_Kante_CR.pdf
 
 ### Blob Upload
 ![Blob Upload](screenshots/Blob upload.png)
-
 
 ---
 
