@@ -182,10 +182,10 @@ Mohamed_Kante_CR.pdf
 ## Screenshots
 
 ### Resource Group
-![Resource Group](screenshots/Resource Group.png)
+![Resource Group](screenshots/Resource-Group.png)
 
 ### Virtual Network
-![Virtual Network](screenshots/Virtual network overview.png)
+![Virtual Network](screenshots/Virtual-network-overview.png)
 
 ### Subnets
 ![Subnets](screenshots/Subnets.png)
