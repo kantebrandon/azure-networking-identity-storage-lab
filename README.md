@@ -191,37 +191,37 @@ Mohamed_Kante_CR.pdf
 ![Subnets](screenshots/Subnets.png)
 
 ### VM1 Overview
-![VM1 Overview](screenshots/VM1 Overview.png)
+![VM1 Overview](screenshots/VM1-Overview.png)
 
 ### VM1 Networking
-![VM1 Networking](screenshots/VM1 Networking.png)
+![VM1 Networking](screenshots/VM1-Networking.png)
 
 ### VM2 Overview
-![VM2 Overview](screenshots/VM2 Overview.png)
+![VM2 Overview](screenshots/VM2-Overview.png)
 
 ### VM2 Networking
-![VM2 Networking](screenshots/VM2 networking.png)
+![VM2 Networking](screenshots/VM2-networking.png)
 
 ### Network Security Group Rules
-![NSG Rules](screenshots/NSG Rules.png)
+![NSG Rules](screenshots/NSG-Rules.png)
 
 ### Connectivity Test
-![Ping Test](screenshots/Ping test.png)
+![Ping Test](screenshots/Ping-test.png)
 
 ### Azure AD Users
-![Azure AD Users](screenshots/azure ad users.png)
+![Azure AD Users](screenshots/azure-ad-users.png)
 
 ### RBAC Role Assignment
-![RBAC](screenshots/RBAC role assignment.png)
+![RBAC](screenshots/RBAC-role-assignment.png)
 
 ### Storage Account
-![Storage Account](screenshots/Storage account.png)
+![Storage Account](screenshots/Storage-account.png)
 
 ### Blob Container
-![Blob Container](screenshots/Blob container.png)
+![Blob Container](screenshots/Blob-container.png)
 
 ### Blob Upload
-![Blob Upload](screenshots/Blob upload.png)
+![Blob Upload](screenshots/Blob-upload.png)
 
 ---
 
